@@ -47,4 +47,7 @@ Add Code here
 <img width="946" height="267" alt="image" src="https://github.com/user-attachments/assets/d822c448-bcf9-4028-895e-025694e087b8" />
 
 ## Result
+Thus , the program has been executed succesfully.
+
+
 
